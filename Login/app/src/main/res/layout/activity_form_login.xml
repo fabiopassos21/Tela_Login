@@ -55,6 +55,7 @@
          />
 
     <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bt_entrar"
         style="@style/button"
         android:text="@string/Entrar"
         app:layout_constraintEnd_toEndOf="parent"
